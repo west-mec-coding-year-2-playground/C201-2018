@@ -1,0 +1,9 @@
+ngrok
+
+https://github.com/localtunnel/localtunnel
+npm install -g localtunnel
+lt --port 8080
+lt -p 8080 -h "https://localtunnel.me" -s "mjbtunnel"
+
+serveo.net
+ssh -o ServerAliveInterval=3600 -R xxxtunnel:80:localhost:8080 serveo.net

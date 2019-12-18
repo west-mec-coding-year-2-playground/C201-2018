@@ -1,0 +1,9 @@
+What is AngularJS and what is it designed for? You may REFER to and quote outside sources to help with this, but explanations MUST be in your own words.
+
+What is the architectural design pattern used by AngularJS? Describe each of its 3 component parts and what each is used for. You may REFER to and quote outside sources to help with this, but explanations MUST be in your own words.
+
+The AngularJS framework has its own unique syntax. Explain the difference between an AngularJS directive and an AngularJS expression. Describe each of the AngularJS directives we have used so far in our current project. You may REFER to and quote outside sources to help with this, but explanations MUST be in your own words.
+
+What is meant by data binding and how is it employed in AngularJS? What is the method by which AngularJS implements data binding? You may REFER to and quote outside sources to help with this, but explanations MUST be in your own words.
+
+Explain the $scope variable. You may REFER to and quote outside sources to help with this, but explanations MUST be in your own words.

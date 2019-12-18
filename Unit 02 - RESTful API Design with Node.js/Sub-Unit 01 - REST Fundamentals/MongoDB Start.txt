@@ -1,0 +1,9 @@
+MongoDB on Mac
+
+brew services stop mongo
+cd /
+mkdir data/db
+
+One or the other should worK:
+mongod --dbpath-data/db
+mongod --dbpath ~/data

@@ -1,0 +1,17 @@
+What is the data layer in Web design? What purpose does a RESTful API fulfill with regards to this layer? You may REFER to and quote outside sources to help with this, but explanations MUST be in your own words.
+
+What is the definition of CRUD in Web operations? How does each of the verbs in a RESTful API correspond with CRUD? You may REFER to and quote outside sources to help with this, but explanations MUST be in your own words.
+
+What is the definition of a JavaScript IIFE? What are the two main parts of an IIFE, and what is the purpose of each of them? You may REFER to and quote outside sources to help with this, but explanations MUST be in your own words.
+
+What is AJAX used for in JavaScript programming? How will we use it in implementing a RESTful API? You may REFER to and quote outside sources to help with this, but explanations MUST be in your own words.
+
+If you wanted to use a MongoDB collection as a data cache, at what key points in an application would you clear the cache? Describe in detail the process that you would use to keep the data from getting stale during the runtime of the application. You may REFER to and quote outside sources to help with this, but explanations MUST be in your own words.
+
+In the RESTful API we are building, we are using a concept known as event-driven programming. What is the meaning of this concept and how is it implemented in an application? You may REFER to and quote outside sources to help with this, but explanations MUST be in your own words.
+
+In the RESTful APIs we are building, we are using a concept known as modular programming. Identify and describe the various modular segments we have used to build an API. In what way has the job been split into components? You may REFER to and quote outside sources to help with this, but explanations MUST be in your own words.
+
+The project we have built is quite complex, with many pieces and moving parts. Describe in detaill the various debugging techniques that were necessary to successfully make this project work correctly. You may REFER to and quote outside sources to help with this, but explanations MUST be in your own words.
+
+We have now completed a comprehensive RESTful API project, including the consumer side and the server side. Discuss in strong detail the concepts you have learned in this process and their value to you as a coder.

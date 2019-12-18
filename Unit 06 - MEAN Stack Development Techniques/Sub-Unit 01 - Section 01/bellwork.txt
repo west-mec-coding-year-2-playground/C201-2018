@@ -1,0 +1,5 @@
+Describe scaffolding an application with a generator, such as is available with Yeoman. Research and describe the Yeoman Workflow components. You may REFER to and quote outside sources to help with this, but explanations MUST be in your own words.
+
+Categorize some of the differences you have seen in our previous use of plain JavaScript with AngularJS, versus the Javascript ES6 implementation. You may REFER to and quote outside sources to help with this, but explanations MUST be in your own words.
+
+Describe the process and components used to set up a working view in AngularJS using object-oriented JavaScript ES6. You may REFER to and quote outside sources to help with this, but explanations MUST be in your own words.

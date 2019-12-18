@@ -1,0 +1,13 @@
+Describe the differences betwen relational databases and document-oriented databases. What is the language used to query each? Do you see any advantages or disadvantages to either or both? You may REFER to and quote outside sources to help with this, but explanations MUST be in your own words.
+
+Describe the process of obtaining node.js resources for MongoDB and the items needed and the steps for connecting to a MongoDB database. You may REFER to and quote outside sources to help with this, but explanations MUST be in your own words.
+
+Describe the process for inserting data into a MongoDB database. You may use an outside link as a resource. You may quote it to help with this. However, explanations MUST be in your own words to receive a grade for content. Anything from the source must be correctly marked with quotes and cited.
+
+What is a cursor in MongoDB and what is it used for? You may REFER to and quote outside sources to help with this, but explanations MUST be in your own words.
+
+Describe the process for retrieving data from a MongoDB database. You may use an outside link as a resource. You may quote it to help with this. However, explanations MUST be in your own words to receive a grade for content. Anything from the source must be correctly marked with quotes and cited.
+
+Describe the process for deleting data from a MongoDB database. You may use an outside link as a resource. You may quote it to help with this. However, explanations MUST be in your own words to receive a grade for content. Anything from the source must be correctly marked with quotes and cited.
+
+If you wanted to use a MongoDB collection as a data cache, at what key points in an application would you clear the cache? Describe in detail the process that you would use to keep the data from getting stale during the runtime of the application. You may REFER to and quote outside sources to help with this, but explanations MUST be in your own words.

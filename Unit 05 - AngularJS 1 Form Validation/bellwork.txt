@@ -1,0 +1,11 @@
+Firstly, describe the key concepts that you have learned in the unit on AngularJS. In particular, contrast the use of JavaScript code in a traditional HTML/CSS/JavaScript front-end, versus the advantages or disadvantages of using AngularJS.
+
+Secondly, review the code for Form Validation that we did in the first term in Exercise 01_06_01. Analyze both the amount and extent of the JavaScript code that was used to execute the validation of a Web Form. clearly state our opinions on this topic.
+
+Discuss your answers with your shoulder partner. Briefly list your conclusions on your slates and be prepared to share your views with the rest of the class.What are the AngularJS directives that may be used for field validation? Describe what each is used for. You may use an outside link as a resource. You may quote it to help with this. However, explanations MUST be in your own words to receive a grade for content. Anything from the source must be correctly marked with quotes and cited.
+
+What are the AngularJS form validation properties? What are they used for. Which of them are used on both whole forms and single fields, and which are used only on single fields? You may use an outside link as a resource. You may quote it to help with this. However, explanations MUST be in your own words to receive a grade for content. Anything from the source must be correctly marked with quotes and cited.
+
+What are the AngularJS form validation classes? What can they be used for to enhance the rendering of the form validation process? You may use an outside link as a resource. You may quote it to help with this. However, explanations MUST be in your own words to receive a grade for content. Anything from the source must be correctly marked with quotes and cited.
+
+We have now completed a comprehensive unit on JAngularJS 1 form Validation. Discuss in strong detail the concepts you have learned in this process. What concepts did you find easy? What concepts are giving you difficulties? What are the strengths that AngularJS form Validation brings to your Web programming skills?

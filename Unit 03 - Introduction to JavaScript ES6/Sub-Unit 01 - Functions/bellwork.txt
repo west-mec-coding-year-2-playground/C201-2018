@@ -1,0 +1,20 @@
+Define and explain JavaScript ES6 (ECMAScript 6, ES2015). Where is it supported, and what must be done to make it work in some instances in front-end browsers? You may REFER to and quote outside sources to help with this, but explanations MUST be in your own words.
+
+Describe and explain the syntax of ES6 arrow functions. How does the syntax differ from that of regular functions? You may REFER to and quote outside sources to help with this, but explanations MUST be in your own words.
+
+What arrow function characteristics may be modified, or not used, in certain circumstances? Explain each of the rules and whether or not you think each is a good practice, a bad practice, or okay sometimes. You may REFER to and quote outside sources to help with this, but explanations MUST be in your own words.
+
+Define in depth the definition of lexical scope. In regular ES5 function syntax, what is the possible effect of lexical scope when one function is defined inside another? You may use an outside link as a resource. You may quote it to help with this. However, explanations MUST be in your own words to receive a grade for content. Anything from the source must be correctly marked with quotes and cited.
+
+What is the difference with regard to lexical scope between functions defined inside functions with ES5 and defining a function inside a function using arrow function syntax? You may use an outside link as a resource. You may quote it to help with this. However, explanations MUST be in your own words to receive a grade for content. Anything from the source must be correctly marked with quotes and cited.
+
+What is meant in JavaScript by the process of hoisting? What can be its effects and differences with regard to the definitions of regular functions versus arrow functions? You may use an outside link as a resource. You may quote it to help with this. However, explanations MUST be in your own words to receive a grade for content. Anything from the source must be correctly marked with quotes and cited.
+
+What is meant in JavaScript by default parameters? Explain the two purposes that default parameters serve which act as improvements over  traditional ES5 parameters. You may use an outside link as a resource. You may quote it to help with this. However, explanations MUST be in your own words to receive a grade for content. Anything from the source must be correctly marked with quotes and cited.
+
+What is meant in JavaScript by rest parameters? Describe the rules for their usage, how they are passed, and how they may be processed inside the function. You may use an outside link as a resource. You may quote it to help with this. However, explanations MUST be in your own words to receive a grade for content. Anything from the source must be correctly marked with quotes and cited.
+
+What is meant in JavaScript by spread syntax? Describe the rules for their usage, how they are passed, and how they may be processed in code. You may use an outside link as a resource. You may quote it to help with this. However, explanations MUST be in your own words to receive a grade for content. Anything from the source must be correctly marked with quotes and cited.
+
+Deescribe in detail the steps that you would take to convert an ES5 object constructor function to an ES6 class. You may use an outside link as a resource. You may quote it to help with this. However, explanations MUST be in your own words to receive a grade for content. Anything from the source must be correctly marked with quotes and cited.
+

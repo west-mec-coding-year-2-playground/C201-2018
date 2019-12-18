@@ -1,0 +1,11 @@
+Define and explain the different keywords for declaring variables in JavaScript ES6, including constants. Describe the differences in the scope rules of each. What are the advantages of having more types of variable declarations? You may use an outside link as a resource. You may quote it to help with this. However, explanations MUST be in your own words to receive a grade for content. Anything from the source must be correctly marked with quotes and cited.
+
+Define what is meant in JavaScript ES6 by destructuring. Describe how it is applied with regard to arrays. What are the advantages of destructuring with arrays? You may use an outside link as a resource. You may quote it to help with this. However, explanations MUST be in your own words to receive a grade for content. Anything from the source must be correctly marked with quotes and cited.
+
+Describe how destructuring is applied with regard to objects. What are the advantages of destructuring with objects? You may use an outside link as a resource. You may quote it to help with this. However, explanations MUST be in your own words to receive a grade for content. Anything from the source must be correctly marked with quotes and cited.
+
+Describe the new features of ES6 with regard to both property declarations and function property declarations. What are the advantages of the new syntax for each? You may use an outside link as a resource. You may quote it to help with this. However, explanations MUST be in your own words to receive a grade for content. Anything from the source must be correctly marked with quotes and cited.
+
+Describe the concept of ES6 string delimiters. What can they be used for? What is the syntax? What is meant by string interpolation? You may use an outside link as a resource. You may quote it to help with this. However, explanations MUST be in your own words to receive a grade for content. Anything from the source must be correctly marked with quotes and cited.
+
+

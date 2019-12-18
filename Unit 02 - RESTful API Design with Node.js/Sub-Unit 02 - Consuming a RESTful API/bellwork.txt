@@ -1,0 +1,14 @@
+Please define, in depth and in your own words, the concepts of authentication and authorization, as it relates to software interfaces. What is OAuth, and how does it help us with the authentication and authorization process? You may REFER to and quote outside sources to help with this, but explanations MUST be in your own words.
+
+Go to the ExpressJS Guide and research routing. Describe what it is, and explain how it is implemented in Node.js, using ExpressJS. You may REFER to and quote outside sources to help with this, but explanations MUST be in your own words.
+
+Go to the ExpressJS Guide and research middleware. Describe what it is, and explain how it is implemented in Node.js, using ExpressJS. You may REFER to and quote outside sources to help with this, but explanations MUST be in your own words.
+
+Google the "Twitter REST APIs" and go to the Docs, Basics, things every developer should know page. Describe the relevant items that you need to know to use the APIs properly. You may REFER to and quote outside sources to help with this, but explanations MUST be in your own words.
+
+We have been using the nodejs async.js module to support our asynchronous programming. Asynchronous can be difficult and the code can be hard to read. Google "Staying Sane with Asynchronous Programming." Describe what is meant by "callback hell" and what is it that we can do to minimize the problems with it? You may REFER to and quote outside sources to help with this, but explanations MUST be in your own words.
+
+We have been building complicated asynchronous code. One way to make it less complicated is with the use of promises. Google "Understanding javaScript promises" and explain what they are and how we can use them to make the code less complicated. You may quote it to help with this. However, explanations MUST be in your own words to receive a grade for content. Anything from the source must be correctly marked with quotes and cited.
+
+Go to the Twitter REST API documentation and research the concept of cursored collections. Describe what they are and what they are used for. You may quote it to help with this. However, explanations MUST be in your own words to receive a grade for content. Anything from the source must be correctly marked with quotes and cited.
+

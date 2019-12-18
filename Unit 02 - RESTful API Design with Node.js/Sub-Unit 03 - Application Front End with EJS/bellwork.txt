@@ -1,0 +1,3 @@
+Describe what is meant by static content to a Web server. Describe in detail the procedure you would use in ExpressJS to serve static content. You may REFER to and quote outside sources to help with this, but explanations MUST be in your own words.
+
+Describe EJS and describe what it is used for. Name some of the advantageous features that it provides. Describe in detail the procedure you would use in ExpressJS to serve static content. You may REFER to and quote outside sources to help with this, but explanations MUST be in your own words.

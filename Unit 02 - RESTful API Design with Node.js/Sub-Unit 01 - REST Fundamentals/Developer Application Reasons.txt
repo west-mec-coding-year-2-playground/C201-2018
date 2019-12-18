@@ -1,0 +1,4 @@
+1. Education, coding instructor. I am teaching my students to build Web services with node.js. They will each get hteir own developer account. This is my third year teaching this using Twitter's APIs as a platform.
+2. No analysis will be done. API data will be requested on those the students follow. they learn to request data, then database it, and make an application using it.
+3. They will learn to Tweet to their own accounts through the API, but that is minor.
+4. Twitter data will be displayed in a GUI of their own individual designs. the project allows them to display those they are following, with some information, and the application allows them to keep notes about them.

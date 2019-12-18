@@ -1,0 +1,1 @@
+Research and describe the Mongoose package. What is it used for? What advantages does it provide over the Mongoose official native driver for Node.js? You may use an outside link as a resource. You may quote it to help with this. However, explanations MUST be in your own words to receive a grade for content. Anything from the source must be correctly marked with quotes and cited.

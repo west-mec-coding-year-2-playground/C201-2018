@@ -1,0 +1,11 @@
+Research Reactjs.org and use it to describe what is meant by React being a component-based architecture. You may use an outside link as a resource. You may quote it to help with this. However, explanations MUST be in your own words to receive a grade for content. Anything from the source must be correctly marked with quotes and cited.
+
+Describe in depth what is meant by the virtual DOM in React. What is it used for and what are its advantages? You may use an outside link as a resource. You may quote it to help with this. However, explanations MUST be in your own words to receive a grade for content. Anything from the source must be correctly marked with quotes and cited.
+
+Describe in depth what is meant by JSX. What does it allow us to do with our JavaScript and what are its advantages? You may use an outside link as a resource. You may quote it to help with this. However, explanations MUST be in your own words to receive a grade for content. Anything from the source must be correctly marked with quotes and cited.
+
+Describe in depth the steps necessary to create a React component. What are its advantages? You may use an outside link as a resource. You may quote it to help with this. However, explanations MUST be in your own words to receive a grade for content. Anything from the source must be correctly marked with quotes and cited.
+
+Describe in depth what is meant by props validation. What is it used for? What are the steps to implement it? You may use an outside link as a resource. You may quote it to help with this. However, explanations MUST be in your own words to receive a grade for content. Anything from the source must be correctly marked with quotes and cited.
+
+Describe in depth what is meant by component composability in React. What is it used for? What are its structural aspects? You may use an outside link as a resource. You may quote it to help with this. However, explanations MUST be in your own words to receive a grade for content. Anything from the source must be correctly marked with quotes and cited.

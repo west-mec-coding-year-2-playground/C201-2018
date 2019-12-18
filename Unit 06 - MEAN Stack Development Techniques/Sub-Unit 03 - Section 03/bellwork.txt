@@ -1,0 +1,5 @@
+What is the purpose of building a customized AngularJS directive? Describe the process that is used to build it. Research and describe the Yeoman Workflow components.You may use an outside link as a resource. You may quote it to help with this. However, explanations MUST be in your own words to receive a grade for content. Anything from the source must be correctly marked with quotes and cited.
+
+Research the Satelllizer application. What are the purposes for which it may be employed? You may use an outside link as a resource. You may quote it to help with this. However, explanations MUST be in your own words to receive a grade for content. Anything from the source must be correctly marked with quotes and cited.
+
+Research the JWT-simple package. What are the purposes for which it may be employed? You may use an outside link as a resource. You may quote it to help with this. However, explanations MUST be in your own words to receive a grade for content. Anything from the source must be correctly marked with quotes and cited.

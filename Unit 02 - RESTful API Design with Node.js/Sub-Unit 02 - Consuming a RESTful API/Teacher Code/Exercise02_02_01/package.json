@@ -1,0 +1,18 @@
+{
+  "name": "twitter-notes",
+  "version": "1.0.0",
+  "description": "An application for leaving notes on Twitter friends and followers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark J. Buckler",
+  "license": "ISC",
+  "dependencies": {
+    "asynch": "^0.5.2",
+    "cookie-parser": "^1.4.3",
+    "cookies": "^0.7.1",
+    "express": "^4.16.2",
+    "oauth": "^0.9.15"
+  }
+}

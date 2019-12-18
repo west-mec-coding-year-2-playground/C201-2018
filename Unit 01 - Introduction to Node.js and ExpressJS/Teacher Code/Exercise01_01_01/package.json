@@ -1,0 +1,16 @@
+{
+  "name": "exercise01_01_01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "asynch-demo.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

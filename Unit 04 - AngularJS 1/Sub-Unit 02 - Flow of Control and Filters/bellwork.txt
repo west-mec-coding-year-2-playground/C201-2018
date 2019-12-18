@@ -1,0 +1,6 @@
+Describe each of the directives that are for AngularJS conditionals. How are they used? Describe the directive used for looping with AngularJS and how it is used. You may REFER to and quote outside sources to help with this, but explanations MUST be in your own words.
+
+Research the AngularJS API documentation and describe the AngularJS $http service. What is it used for, what are the HTTP verbs it supports, and what advantage does this give us over plain JavaScript? You may use an outside link as a resource. You may quote it to help with this. However, explanations MUST be in your own words to receive a grade for content. Anything from the source must be correctly marked with quotes and cited.
+
+Research the AngularJS API documentation. What is an AngularJS filter? What useful purposes can we put a filter to? You may use an outside link as a resource. You may quote it to help with this. However, explanations MUST be in your own words to receive a grade for content. Anything from the source must be correctly marked with quotes and cited.
+

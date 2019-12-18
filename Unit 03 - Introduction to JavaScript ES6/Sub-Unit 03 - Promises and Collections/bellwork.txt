@@ -1,0 +1,6 @@
+Explain the basic design pattern of a single promise, along with the implementation of a Promise object. You may REFER to and quote outside sources to help with this, but explanations MUST be in your own words.
+
+Describe a Promise.all(). What is its purpose, how does it work, and what advantages can we get from it? You may REFER to and quote outside sources to help with this, but explanations MUST be in your own words.
+
+
+

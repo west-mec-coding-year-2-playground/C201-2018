@@ -1,0 +1,1 @@
+Describe scaffolding an application with a generator, such as is available with Yeoman. Research and describe the Yeoman Workflow components.You may use an outside link as a resource. You may quote it to help with this. However, explanations MUST be in your own words to receive a grade for content. Anything from the source must be correctly marked with quotes and cited.
