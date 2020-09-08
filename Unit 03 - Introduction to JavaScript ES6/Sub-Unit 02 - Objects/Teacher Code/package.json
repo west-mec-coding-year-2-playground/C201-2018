@@ -5,7 +5,7 @@
   "main": "src/server.js",
   "dependencies": {
     "chart.js": "2.3.0",
-    "handlebars": "4.0.6",
+    "handlebars": "4.7.6",
     "hapi": "15.0.3",
     "inert": "4.0.2",
     "jquery": "3.1.1",
